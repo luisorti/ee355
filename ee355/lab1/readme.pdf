@@ -1,0 +1,12 @@
+Luis Ortiz 
+9029743713 
+luisorti@usc.edu 
+
+answers to questions for Lab 1 
+
+1. cp * ../
+2. mv ~/*.h ../CurrentDirectory
+3. mkdir ../backup 
+   cp * ../backup
+4. you could use "ps" to identify the faulty program and the command "kill" to terminate it. 
+5. I am running Ubuntu 16.04.1 LTS. 
